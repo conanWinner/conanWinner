@@ -28,11 +28,11 @@
   </tr>
 </table>
 
-## Giải Khuyến Khích AI for Life - Giải Khuyến Khích AI AI Challenge
+## Giải Khuyến Khích AI for Life - Giải Khuyến Khích AI Challenge
 <table>
   <tr>
     <th>Giải Khuyến Khích AI for Life</th>
-    <th>Giải Khuyến Khích AI for Life</th>
+    <th>Giải Khuyến Khích AI Challenge</th>
   </tr>
   <tr>
     <td>
