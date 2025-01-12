@@ -52,6 +52,6 @@
 
 ## Giải 4 Robocar
 - Cuộc thi này yêu cầu làm xe điều khiển cũng như xe tự hành, tuy không liên quan lắm nhưng đây cũng là kỷ niệm trong quãng đường sinh viên.
-  
-<img src="https://github.com/user-attachments/assets/65fad381-df7f-454a-9a13-931c7baf4873" width="800">
+
+<img src="https://github.com/user-attachments/assets/aa9fc51e-a647-4584-9cbc-6859c147abdb" width="800">
 
