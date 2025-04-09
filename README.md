@@ -55,3 +55,16 @@
 
 <img src="https://github.com/user-attachments/assets/aa9fc51e-a647-4584-9cbc-6859c147abdb" width="800">
 
+## Lọt vào vòng bán kết Imagine Cup 2025 của Microsoft tổ chức
+- Mô tả về sản phẩm:
+  - Tạo model nhận diện phát âm sai
+  - Tạo extension để tích hợp model vào, phát triển extension giúp người nước ngoài cũng như trẻ em học Tiếng Việt
+  - ... (đang cập nhật tiếp khi có thời gian) ...
+  - Link:
+      - FE: https://github.com/PhucLeDio/Danang-Speech.git
+      - BE: (closed source)
+      - Ngoài ra hệ thống đã triển khai chạy thật trên máy chủ Azure.
+
+<img src="https://github.com/user-attachments/assets/56c9f334-9e63-4d29-b274-a12a7abf7764" width="800">
+
+
